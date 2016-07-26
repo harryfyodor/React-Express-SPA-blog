@@ -1,8 +1,10 @@
 # React-Express-SPA-blog
 
 这是一个简单的单页个人博客应用, 图片如下
+home主页面如下
 ![picture1](/images/screen1.png)
-![picture2](/images/screen2/png)
+文章写作页面
+![picture2](/images/screen2.png)
 
 技术栈如下:
 * React 
