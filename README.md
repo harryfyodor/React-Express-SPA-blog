@@ -1,10 +1,9 @@
 # React-Express-SPA-blog
 
-这是一个简单的单页个人博客应用, 图片如下
-home主页面如下
-![picture1](/images/screen1.png)
-文章写作页面
-![picture2](/images/screen2.png)
+这是一个简单的单页个人博客应用.
+
+搭建地址为: [harryfyodor.tk]
+[harryfyodor.tk]: https://harryfyodor.tk
 
 技术栈如下:
 * React 
@@ -14,8 +13,11 @@ home主页面如下
 * Webpack
 * mongodb
 
-搭建地址为: [harryfyodor.tk]
-[harryfyodor.tk]: https://harryfyodor.tk
+图片如下
+* home主页面如下
+![picture1](/images/screen1.png)
+* 文章写作页面
+![picture2](/images/screen2.png)
 
 把代码下载下来之后, 在命令行里输入
 ```
