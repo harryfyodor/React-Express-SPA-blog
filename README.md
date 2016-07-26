@@ -19,7 +19,7 @@
 * 文章写作页面
 ![picture2](/images/screen2.png)
 
-### 操作
+### 操作:
 把代码下载下来之后, 在命令行里输入
 ```
 npm install
