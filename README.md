@@ -32,7 +32,7 @@ export NODE_ENV=development
 ```
 export NODE_ENV=production
 ```
-密码在setting文件中可以设置.
+密码在data/user.js文件中可以设置.
 
 ----------
 ### 主要参考:
