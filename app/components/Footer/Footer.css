@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  background-color: #009a94;
+  flex-direction: column;
+  height: 7rem;
+  margin-top: 1rem;
+  background: -webkit-linear-gradient(#eeeeee, #009a94); /* Safari 5.1 - 6.0 */
+  background: -o-linear-gradient(#eeeeee, #009a94); /* Opera 11.1 - 12.0 */
+  background: -moz-linear-gradient(#eeeeee, #009a94); /* Firefox 3.6 - 15 */
+  background: linear-gradient(#eeeeee, #009a94); /* 标准的语法 */
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.footer p{
+  display: block;
+}
+

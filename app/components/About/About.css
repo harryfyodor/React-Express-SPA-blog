@@ -1,0 +1,41 @@
+.about {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(172,194,204,0.6);
+  text-align: left;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.about div {
+  width: 50%;
+  background-color: rgba(172,194,204,0.9);
+  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  box-shadow: 0 0 5px #009a94;
+  border-radius: 3px;
+}
+
+.about div>h2 {
+  text-align: center;
+  text-decoration: line-through;
+}
+
+.about button {
+  text-decoration: none;
+  color: #344653;
+  line-height: 1.5;
+  width: 4rem;
+  height: 1.4rem;
+  display: block;
+  line-height: 1.4rem;
+  margin: 0.5rem auto
+}
+
+
+.about button:hover {
+  background-color: #009a94;
+  border: 1px solid white;
+  color: white;
+}

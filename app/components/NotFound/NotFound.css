@@ -1,0 +1,17 @@
+.notFound {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.notFound h1 {
+  color: #009a94;
+}
+
+.notFound iframe {
+  border: none;
+  height: 50px;
+  width: 200px;
+}

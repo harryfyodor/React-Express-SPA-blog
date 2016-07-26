@@ -1,0 +1,47 @@
+/*
+.home {
+  display: flex;
+  flex-direction: column;
+}
+
+.home>div {
+  margin: 1rem 0rem 2rem 0rem;
+}
+
+.home li {
+  display: inline-block;
+  margin-right: 1rem;
+  color: #3c4e5a;
+  cursor: pointer;
+}
+
+.home button {
+  margin-right: 2rem;
+}
+
+.home button a {
+  text-decoration: none;
+  color: #344653;
+  line-height: 1.5;
+  width: 4rem;
+  height: 1.4rem;
+  display: block;
+  line-height: 1.4rem;
+}*/
+
+.home>div {
+  margin: 1rem 0rem 2rem 0rem;
+}
+
+.home>div time {
+  font-size: 0.8rem;
+}
+
+.home>div li {
+  margin-right: 1rem;
+  color: #009A94;
+}
+
+.home button {
+  margin-right: 2rem;
+}

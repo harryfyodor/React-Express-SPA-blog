@@ -1,0 +1,29 @@
+/*
+.tagResult {
+
+}
+
+.tagResult li {
+  display: block;
+}
+
+.tagResult a {
+  margin-right: 1rem;
+}
+
+.tagResult a:hover {
+  color: black;
+  text-decoration: underline;
+}
+*/
+.tagResult li {
+  display: block;
+}
+
+.tagResult a {
+  margin-right: 1rem;
+}
+
+.tagResult a:hover {
+  text-decoration: underline;
+}

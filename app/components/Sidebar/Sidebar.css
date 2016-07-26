@@ -1,0 +1,83 @@
+/*
+.sidebar {
+  width: 10rem;
+  display: flex;
+  border-left: 1px solid #3b4c56;
+  flex-direction: column;
+  padding-left: 1rem;
+}
+
+.music {
+  border: 0;
+  margin: 0;
+  width: 18rem;
+}
+
+.sidebar div {
+  color: #344653;
+  width: 9rem;
+  height: 4rem;
+}
+
+.sidebar input {
+  width: 9rem;
+  background-color: transparent;
+  border: 1px solid #344653;
+  box-shadow: 0 0 1px black;
+  height: 1.5rem;
+  line-height: 1.5rem;
+  padding-left: 0.3rem;
+  font-size: 1rem;
+  color: #344653;
+}
+
+.sidebar ul {
+  margin-top: 0.5rem;
+}
+
+.sidebar li {
+  margin-right: 0.5rem;
+}
+
+.sidebar li a:hover {
+  text-decoration: underline;
+  color: black;
+}*/
+
+.sidebar {
+  display: flex;
+  flex-direction: column;
+  width: 10rem;
+  border-left: 1px solid #009a94;
+  padding-left: 1rem;
+}
+
+.sidebar ul {
+  margin-left: 0.2rem;
+}
+
+.sidebar input {
+  border: 1px solid #009A9A;
+  border-radius: 2px;
+  height: 1.2rem;
+  font-size: 0.8rem;
+  margin: 0.5rem 0 0.5rem 0.5rem;
+  width: 9.4rem;
+  padding-left: 0.2rem;
+  box-shadow: 0 0 2px gray;
+}
+
+.sidebar li a{
+  margin-right: 1rem;
+}
+
+.sidebar li a:hover {
+  text-decoration: underline;
+}
+
+.sidebar iframe {
+  width: 10.3rem;
+  border: none;
+}
+
+

@@ -1,0 +1,33 @@
+/*
+.archive {
+  display: flex;
+  flex-direction: column;
+}
+
+.archive>div {
+  margin-bottom: 1rem;
+}
+
+.archive>div li {
+  display: block;
+}
+
+.archive>div a {
+  color: #344653;
+  text-decoration: none;
+  line-height: 1;
+} 
+
+.archive>div a:hover {
+  text-decoration: underline;
+  color: black;
+}
+*/
+
+.archive>div li{
+  display: block;
+}
+
+.archive>div li:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,116 @@
+/*
+.single h1 {
+  line-height: 2;
+  color: #344653;
+}
+
+.single li {
+  display: inline-block;
+}
+
+.single li a {
+  margin-right: 1rem;
+  text-decoration: none;
+  color: #344653; 
+}
+
+.single button {
+  margin-top: 5rem;
+  margin-right: 1rem;
+}*/
+
+.single {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.single li {
+  margin-right: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.single button {
+  margin-right: 1rem;
+  margin-top: 3rem;
+}
+
+.single button a:hover {
+  background-color: #009A94;
+  color: white;
+}
+
+/*markdowm*/
+
+.md {
+  font-size: 0.8rem;
+}
+
+.md h1,
+.md h2,
+.md h3,
+.md h4,
+.md h5,
+.md h6 {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+.md li {
+  display: list-item;
+  margin: 0;
+  padding: 0;
+}
+
+.md p {
+  line-height: 1rem;
+}
+
+.md ul {
+  list-style: square;
+  padding-left:1.2rem;
+}
+
+.md ol {
+  padding-left:1.2rem;
+}
+
+.md pre {
+  background-color: rgba(0,154,148,0.7);
+  color: white;
+  padding: 8px 10px;
+  border-radius: 0.4em;
+  -moz-border-radius: 0.4em;
+  -webkit-border-radius: 0.4em;
+  overflow-x: hidden;
+}
+
+.md code {
+  background-color: #47b3af;
+  color: white; 
+}
+
+.md pre code {
+  font-size: 10pt;
+  font-family: "Consolas", "Menlo", "Monaco", monospace, serif;
+}
+
+.md blockquote {
+  font-style: italic;
+  margin: 1rem 1rem 1rem;
+  padding-left: 1rem;
+  border-left: 3px solid #47b3af;
+}
+
+.md a {
+  font-size: 0.9rem; 
+}
+
+.md a:hover {
+  text-decoration: underline; 
+}
+
+.md img {
+  width: 100%;
+  box-shadow: 0 0 10px #009a94;
+}

@@ -1,0 +1,26 @@
+.addComment {
+  display: flex;
+  flex-direction: column;
+  margin-top: 1rem;
+}
+
+.addComment input {
+  margin-bottom: 0.5rem;
+  height: 1.4rem;
+  padding: 0.2rem;
+}
+
+.addComment textarea {
+  height: 5rem;
+  padding: 0.2rem;
+}
+
+.addComment button {
+  width: 4.2rem; 
+  margin-top: 0.5rem;
+}
+
+.addComment button:a hover {
+  background-color: #009a94; 
+  color: white;
+}

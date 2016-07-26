@@ -1,0 +1,33 @@
+/*
+.main {
+  display: flex;
+  align-items: flex-start;
+  width: 960px;
+  margin: 6rem auto 5rem auto;
+  padding: 1.5rem 1rem 1.5rem 2rem;
+  background-color: rgba(172,194,204,0.5);
+  box-shadow: 0 0 2px black;
+  align-items: stretch;
+  justify-content: space-around;
+}
+
+.content {
+  flex-grow: 2;
+  flex-shrink: 1;
+}
+*/
+
+.main {
+  display: flex;
+  align-items: flex-start;
+  align-items: stretch;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 60%;
+  flex: 1;
+}
+
+.content {
+  width: 40rem; 
+  padding-right: 1rem;
+}
